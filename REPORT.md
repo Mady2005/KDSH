@@ -1,7 +1,7 @@
 # ULTIMATE Track A Solution - Technical Report
 ## Kharagpur Data Science Hackathon 2026
 
-**Team:** Claude AI Research  
+**Team:**   
 **Track:** Track A - Systems Reasoning with NLP and Generative AI  
 **Version:** Ultimate Hybrid System
 
