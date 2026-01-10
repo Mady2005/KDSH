@@ -1,4 +1,4 @@
-# ULTIMATE Track A Solution - Technical Report
+
 ## Kharagpur Data Science Hackathon 2026
 
 **Team:**   
