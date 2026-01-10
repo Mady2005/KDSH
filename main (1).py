@@ -1,6 +1,6 @@
 """
-Kharagpur Data Science Hackathon 2026 - Track A Solution (ULTIMATE VERSION)
-Team: Claude AI Research
+Kharagpur Data Science Hackathon 2026
+Team: 
 
 HYBRID ADVANCED SOLUTION:
 Combines the discriminative power of rule-based systems with the sophistication of LLM reasoning.
