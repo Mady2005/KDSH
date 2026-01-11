@@ -1,7 +1,7 @@
 # 🏆 Track A Solution - Narrative Consistency Detection
 ## Kharagpur Data Science Hackathon 2026
 
-**Team:** Claude AI Research  
+**Team:** EcoCoders 
 **Track:** Track A - Systems Reasoning with NLP and Generative AI
 
 ---
